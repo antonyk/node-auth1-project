@@ -1,1 +1,2 @@
-console.log("Hello World");
+const server = require('./api/server')
+server();
